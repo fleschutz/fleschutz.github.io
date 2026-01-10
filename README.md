@@ -13,4 +13,6 @@ Kontakt
 Projekte
 --------
 * [Chronik](https://github.com/fleschutz/Chronik) - Chronik der Familie Fleschutz (1412-1942)
-* [PowerShell](https://github.com/fleschutz/PowerShell) - 600 kostenlose Powershell-Scripte
+* [libSI](https://github.com/fleschutz/libSI) - Typen-sichere Lib für SI-Einheiten in C++
+* [PowerShell](https://github.com/fleschutz/PowerShell) - 600 kostenlose PowerShell-Scripte
+* [The GitHub Daily](https://github.com/fleschutz/The-GitHub-Daily) - Täglicher GitHub-Projekt-Überblick
