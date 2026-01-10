@@ -8,4 +8,9 @@ Herzlich Willkommen
 
 Kontakt
 -------
-[Christoph Fleschutz](https://chfleschutz.github.io/about)
+[Christoph Fleschutz](https://chfleschutz.github.io/about) | [Markus Fleschutz](https://github.com/fleschutz)
+
+Projekte
+--------
+* [Chronik](https://github.com/fleschutz/Chronik) - Chronik der Familie Fleschutz (1412-1942)
+* [PowerShell](https://github.com/fleschutz/PowerShell) - 600 kostenlose Powershell-Scripte
