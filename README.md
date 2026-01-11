@@ -1,4 +1,4 @@
-![Bild](assets/BannerNeuschwanstein.webp)
+![Bild](assets/BannerKontakt.webp)
 (Foto: pixabay.com)
 
 Herzlich Willkommen
