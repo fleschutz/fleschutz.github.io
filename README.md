@@ -8,7 +8,7 @@ Herzlich Willkommen
 
 Kontakt
 -------
-[Christoph Fleschutz](https://chfleschutz.github.io/about) | [Markus Fleschutz](https://github.com/fleschutz)
+[Christoph Fleschutz](https://chfleschutz.github.io/about) | [Markus Fleschutz](https://github.com/fleschutz) | [Impressum](Impressum.md)
 
 Projekte
 --------
