@@ -13,6 +13,7 @@ Kontakt
 Projekte
 --------
 * [Chronik](Chronik/README.md) - Chronik der Familie Fleschutz (1412-1942)
+* [CWTS](https://github.com/fleschutz/CWTS) - Testsuite für Compilerwarnungen
 * [libSI](https://github.com/fleschutz/libSI) - Typen-sichere C++ Library für SI-Einheiten
 * [PowerShell](https://github.com/fleschutz/PowerShell) - 600 kostenlose PowerShell-Scripte
 * [The GitHub Daily](https://github.com/fleschutz/The-GitHub-Daily) - Täglicher Überblick über große GitHub-Projekte
