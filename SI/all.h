@@ -1,7 +1,7 @@
 // <SI/all.h> - includes all SI lib's header files (for convenience)
 #pragma once
 
-#include <SI/datatypes.h>    // <-- Datatypes such as SI::length or SI::time
+#include "SI/datatypes.h"    // <-- Datatypes such as SI::length or SI::time
 #include "units.h"        // <-- Units such as SI::meters or SI::seconds
 #include "literals.h"     // <-- Literals such as 100_m or 60_s
 #include "constants.h"    // <-- Constants such as SI::constant::speed_of_light
