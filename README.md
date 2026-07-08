@@ -17,4 +17,4 @@ Projekte
 * [CWTS](https://github.com/fleschutz/CWTS) - Testsuite für Compilerwarnungen (Englisch)
 * [libSI](https://github.com/fleschutz/libSI) - Datentyp-sichere C++ Library für SI-Einheiten (Englisch)
 * [PowerShell](https://github.com/fleschutz/PowerShell) - 600 kostenlose PowerShell-Scripte (Englisch)
-* [The GitHub Daily](https://github.com/fleschutz/The-GitHub-Daily) - Der tägliche GitHub-Überblick (Englisch)
+* [GitHub News](https://github.com/fleschutz/GitHub-News) - Der tägliche GitHub-Überblick (Englisch)
