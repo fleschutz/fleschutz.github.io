@@ -13,3 +13,6 @@
 [submodule "LSS"]
 	path = LSS
 	url = https://github.com/fleschutz/LSS
+[submodule "csv2hpp"]
+	path = csv2hpp
+	url = https://github.com/fleschutz/csv2hpp
