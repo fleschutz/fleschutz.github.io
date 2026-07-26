@@ -17,7 +17,7 @@ Projekte
 * [Chronik](Chronik/README.md) - Chronik der Familie Fleschutz (1412-1942)
 * [CWTS](CWTS/README.md) - Testsuite für Compilerwarnungen (Englisch)
 * [GitHub News](GitHub-News/README.md) - Der tägliche GitHub-Überblick (Englisch)
-* [LSS](LSS/README.md) - List solutions for: x³ + y³ + z³ = n (Englisch)
+* [LSS](LSS/README.md) - Lösungen für: x³ + y³ + z³ = n (Englisch)
 * [libSI](https://github.com/fleschutz/libSI) - Datentyp-sichere C++ Library für SI-Einheiten (Englisch)
 * [PowerShell](https://github.com/fleschutz/PowerShell) - 600 kostenlose PowerShell-Scripte (Englisch)
 
