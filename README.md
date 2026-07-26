@@ -21,4 +21,4 @@ Projekte
 * [LSS](LSS/README.md) - Lösungen für: x³ + y³ + z³ = n (Englisch)
 * [libSI](libSI/README.md) - C++ Library mit Datentyp-sicheren SI-Einheiten (Englisch)
 * [PowerShell](https://github.com/fleschutz/PowerShell) - 600 kostenlose PowerShell-Scripte (Englisch)
-
+* [talk2windows](talk2windows/README.md) - Windows-Desktop-Steuerung durch Sprache (Englisch)
