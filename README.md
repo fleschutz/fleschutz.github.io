@@ -12,7 +12,7 @@ Kontakt
 
 Projekte
 --------
-* [Bulletproof Backups](https://github.com/fleschutz/bulletproof-backups) - Sichere Backup-Lösung (Englisch)
+* [Bulletproof Backups](bulletproof-backups/README.md) - Sichere Backup-Lösung (Englisch)
 * [Chronik](Chronik/README.md) - Chronik der Familie Fleschutz (1412-1942)
 * [CWTS](https://github.com/fleschutz/CWTS) - Testsuite für Compilerwarnungen (Englisch)
 * [GitHub News](https://github.com/fleschutz/GitHub-News) - Der tägliche GitHub-Überblick (Englisch)
