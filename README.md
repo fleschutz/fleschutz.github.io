@@ -18,6 +18,6 @@ Projekte
 * [CWTS](CWTS/README.md) - Testsuite für Compilerwarnungen (Englisch)
 * [GitHub News](GitHub-News/README.md) - Der tägliche GitHub-Überblick (Englisch)
 * [LSS](LSS/README.md) - Lösungen für: x³ + y³ + z³ = n (Englisch)
-* [libSI](https://github.com/fleschutz/libSI) - Datentyp-sichere C++ Library für SI-Einheiten (Englisch)
+* [libSI](https://github.com/fleschutz/libSI) - C++ Library mit Datentyp-sicheren SI-Einheiten (Englisch)
 * [PowerShell](https://github.com/fleschutz/PowerShell) - 600 kostenlose PowerShell-Scripte (Englisch)
 
