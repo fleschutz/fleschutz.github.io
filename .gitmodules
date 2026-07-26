@@ -1,0 +1,3 @@
+[submodule "bulletproof-backups"]
+	path = bulletproof-backups
+	url = https://github.com/fleschutz/bulletproof-backups
