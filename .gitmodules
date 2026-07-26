@@ -10,3 +10,6 @@
 [submodule "base256U"]
 	path = base256U
 	url = https://github.com/fleschutz/base256U
+[submodule "LSS"]
+	path = LSS
+	url = https://github.com/fleschutz/LSS
