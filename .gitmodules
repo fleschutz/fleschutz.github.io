@@ -7,3 +7,6 @@
 [submodule "GitHub-News"]
 	path = GitHub-News
 	url = https://github.com/fleschutz/GitHub-News
+[submodule "base256U"]
+	path = base256U
+	url = https://github.com/fleschutz/base256U
