@@ -22,3 +22,6 @@
 [submodule "talk2windows"]
 	path = talk2windows
 	url = https://github.com/fleschutz/talk2windows
+[submodule "Chronik"]
+	path = Chronik
+	url = https://github.com/fleschutz/Chronik
