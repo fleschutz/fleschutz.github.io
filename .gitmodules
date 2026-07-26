@@ -19,3 +19,6 @@
 [submodule "libSI"]
 	path = libSI
 	url = https://github.com/fleschutz/libSI
+[submodule "talk2windows"]
+	path = talk2windows
+	url = https://github.com/fleschutz/talk2windows
