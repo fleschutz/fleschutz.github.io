@@ -16,3 +16,6 @@
 [submodule "csv2hpp"]
 	path = csv2hpp
 	url = https://github.com/fleschutz/csv2hpp
+[submodule "libSI"]
+	path = libSI
+	url = https://github.com/fleschutz/libSI
