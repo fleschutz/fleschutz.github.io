@@ -4,3 +4,6 @@
 [submodule "CWTS"]
 	path = CWTS
 	url = https://github.com/fleschutz/CWTS
+[submodule "GitHub-News"]
+	path = GitHub-News
+	url = https://github.com/fleschutz/GitHub-News
