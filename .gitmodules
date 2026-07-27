@@ -34,7 +34,3 @@
 	path = Chronik
 	url = https://github.com/fleschutz/Chronik
 	branch = main
-[submodule "PowerShell"]
-	path = PowerShell
-	url = https://github.com/fleschutz/PowerShell
-	branch = main

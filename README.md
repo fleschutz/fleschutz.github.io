@@ -20,5 +20,5 @@ Projekte
 * [GitHub News](GitHub-News/README.md) - Der tägliche GitHub-Überblick (Englisch)
 * [LSS](LSS/README.md) - Lösungen für: x³ + y³ + z³ = n (Englisch)
 * [libSI](libSI/README.md) - C++ Library mit Datentyp-sicheren SI-Einheiten (Englisch)
-* [PowerShell](PowerShell/README.md) - 600 kostenlose PowerShell-Scripte (Englisch)
+* [PowerShell](https://github.com/PowerShell/README.md) - 600 kostenlose PowerShell-Scripte (Englisch)
 * [talk2windows](talk2windows/README.md) - Windows-Desktop-Steuerung durch Sprache (Englisch)
