@@ -1,27 +1,36 @@
 [submodule "bulletproof-backups"]
 	path = bulletproof-backups
 	url = https://github.com/fleschutz/bulletproof-backups
+	branch = main
 [submodule "CWTS"]
 	path = CWTS
 	url = https://github.com/fleschutz/CWTS
+	branch = main
 [submodule "GitHub-News"]
 	path = GitHub-News
 	url = https://github.com/fleschutz/GitHub-News
+	branch = main
 [submodule "base256U"]
 	path = base256U
 	url = https://github.com/fleschutz/base256U
+	branch = main
 [submodule "LSS"]
 	path = LSS
 	url = https://github.com/fleschutz/LSS
+	branch = main
 [submodule "csv2hpp"]
 	path = csv2hpp
 	url = https://github.com/fleschutz/csv2hpp
+	branch = main
 [submodule "libSI"]
 	path = libSI
 	url = https://github.com/fleschutz/libSI
+	branch = main
 [submodule "talk2windows"]
 	path = talk2windows
 	url = https://github.com/fleschutz/talk2windows
+	branch = main
 [submodule "Chronik"]
 	path = Chronik
 	url = https://github.com/fleschutz/Chronik
+	branch = main
