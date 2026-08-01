@@ -14,7 +14,7 @@ Projekte
 --------
 * [base256U](base256U/README.md) - base256 Encoding in Unicode (Englisch)
 * [Bulletproof Backups](bulletproof-backups/README.md) - Sichere Backup-Lösung (Englisch)
-* [Checklistenn](checklists/README.md) - Verschiedene Checklisten
+* [Checklisten](checklists/README.md) - Verschiedene Checklisten
 * [Chronik](Chronik/README.md) - Chronik der Familie Fleschutz (1412-1942)
 * [csv2hpp](csv2hpp/README.md) - Konverter von .CSV-Dateien zu .hpp
 * [CWTS](CWTS/README.md) - Testsuite für Compilerwarnungen (Englisch)
