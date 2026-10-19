@@ -13,13 +13,12 @@ Kontakt
 Projekte
 --------
 * [base256U](base256U/README.md) - base256 Encoding in Unicode (Englisch)
-* [Bulletproof Backups](bulletproof-backups/README.md) - Sichere Backup-Lösung (Englisch)
-* [Checklisten](checklists/README.md) - Checklisten & Cheat sheets (Englisch/Deutsch)
+* [Bulletproof Backups](bulletproof-backups/README.md) - Sichere Offline-Backup-Lösung (Englisch)
 * [Chronik](Chronik/README.md) - Chronik der Familie Fleschutz (1412-1942)
-* [csv2hpp](csv2hpp/README.md) - Konverter von .CSV-Dateien zu .hpp
-* [CWTS](CWTS/README.md) - Testsuite für Compilerwarnungen (Englisch)
+* [csv2hpp](csv2hpp/README.md) - .CSV-Dateien nach .hpp-Dateien konvertieren
+* [CWTS](CWTS/README.md) - Testsuite für C++ Compilerwarnungen (Englisch)
 * [GitHub News](GitHub-News/README.md) - Der tägliche GitHub-Überblick (Englisch)
 * [LSS](LSS/README.md) - Lösungen für: x³ + y³ + z³ = n (Englisch)
-* [libSI](libSI/README.md) - C++ Library mit Datentyp-sicheren SI-Einheiten (Englisch)
+* [libSI](libSI/README.md) - C++ Library zum sicheren Arbeiten mit Physik-Einheiten (Englisch)
 * [PowerShell](https://github.com/PowerShell/README.md) - 600 kostenlose PowerShell-Scripte (Englisch)
 * [Talk to Windows®](talk2windows/README.md) - Sprachsteuerung für den Windows-Desktop (Englisch)
