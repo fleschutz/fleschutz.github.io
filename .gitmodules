@@ -23,7 +23,7 @@
 	url = https://github.com/fleschutz/csv2hpp
 	branch = main
 [submodule "libSI"]
-	path = libSI
+	path = si-lib
 	url = https://github.com/fleschutz/libSI
 	branch = main
 [submodule "talk2windows"]

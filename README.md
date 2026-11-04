@@ -19,6 +19,6 @@ Projekte
 * [CWTS](CWTS/README.md) - Testsuite für C++ Compilerwarnungen (Englisch)
 * [GitHub News](GitHub-News/README.md) - Der tägliche GitHub-Überblick (Englisch)
 * [LSS](LSS/README.md) - Lösungen für: x³ + y³ + z³ = n (Englisch)
-* [libSI](libSI/README.md) - C++ Library zum sicheren Arbeiten mit Physik-Einheiten (Englisch)
+* [si-lib](si-lib/README.md) - C++ Library für Physik-Einheiten (Englisch)
 * [PowerShell](https://github.com/PowerShell/README.md) - 600 kostenlose PowerShell-Scripte (Englisch)
 * [Talk to Windows®](talk2windows/README.md) - Sprachsteuerung für den Windows-Desktop (Englisch)
